@@ -1,0 +1,62 @@
+#variation-switcher-popup {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    max-width: 800px;
+    width: 80%;
+    max-height: 80%;
+    overflow-y: auto;
+}
+
+#variation-switcher-selects-container {
+    margin-bottom: 20px;
+}
+
+#variation-switcher-selects-container label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#variation-switcher-selects-container select {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#update-variations-button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+#update-variations-button:hover {
+    background-color: #0056b3;
+}
+
+/* Styling for overlay */
+#variation-switcher-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
