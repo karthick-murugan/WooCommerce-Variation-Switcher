@@ -14,7 +14,7 @@ Normally in WooCommerce, if a customer wants to change a variation (like **size,
 
 ## Example
 
-If a customer adds a **T-shirt (Size: Medium)** to the cart but later wants **Size: Large**, they can simply change the variation in the cart or checkout without removing the product.
+If a customer adds a **T-shirt (Size: Medium)** to the cart but later wants **Size: Large**, they can simply change the variation in the cart or checkout without removing the products.
 
 ## Author
 
