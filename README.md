@@ -18,5 +18,5 @@ If a customer adds a **T-shirt (Size: Medium)** to the cart but later wants **Si
 
 ## Author
 
-Karthick M
+Karthick M.
 
